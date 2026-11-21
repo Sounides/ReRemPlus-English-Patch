@@ -1,0 +1,3 @@
+LIBRARY RioShiinaTL
+EXPORTS
+    RioShiinaTL

@@ -1,0 +1,31 @@
+# Build artifacts
+src/build/
+*.obj
+*.exp
+*.lib
+*.pdb
+
+# Original / patched game files (never commit copyrighted assets)
+*.exe
+*.WAR
+*.war
+*.iso
+*.ISO
+*.s25
+*.S25
+*.scn
+*.SCN
+*.ogg
+*.OGG
+*.mpg
+*.wmv
+*.bmp
+*.INI
+*.ini
+*.log
+_patch_tmp/
+_patch_extract.flag
+p/
+d/
+savedata/
+mv/
