@@ -56,8 +56,11 @@ Double-click **`uninstall.bat`** inside your game folder. It removes `REMPLUS_tl
    build.bat
    ```
    
-## Credits
-Shiina-Rio-TL-Tools - https://github.com/MishaIac/Shiina-Rio-TL-Tools
+## Community Research & Format References
+* [MishaIac/Shiina-Rio-TL-Tools](https://github.com/MishaIac/Shiina-Rio-TL-Tools) — Shiina Rio v2.50 loader hook offset (`0x00405940`) and workflow research.
+* [crskycode/GalgameCoding](https://github.com/crskycode/GalgameCoding) — Shiina Rio loader framework architecture.
+* [Darkness-TX / Niflheim](https://github.com/Yggdrasill-Moe/Niflheim) — S25 image compression format documentation.
+* [morkt/GARbro](https://github.com/morkt/GARbro) (MIT License) — Opti
 
 ## License
 MIT License — see [LICENSE](LICENSE) and [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
