@@ -55,6 +55,9 @@ Double-click **`uninstall.bat`** inside your game folder. It removes `REMPLUS_tl
    set DETOURS_DIR=C:\path\to\Detours\src
    build.bat
    ```
+   
+## Credits
+Shiina-Rio-TL-Tools - https://github.com/MishaIac/Shiina-Rio-TL-Tools
 
 ## License
 MIT License — see [LICENSE](LICENSE) and [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
