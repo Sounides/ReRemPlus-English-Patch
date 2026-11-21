@@ -1,6 +1,6 @@
 # Re:Rem Plus — English Translation Patch
 
-An unofficial, **100% copyright-free** English translation patch for the Japanese visual novel **Re:Rem Plus** (*Re:レムプラス*, Grand Cross, Shiina Rio v2.50 engine).
+An unofficial **AI Generated** English translation patch for the Japanese visual novel **Re:Rem Plus** (*Re:レムプラス*, Grand Cross, Shiina Rio v2.50 engine).
 
 > **Legal / Copyright Notice:** This repository contains **no copyrighted game files** — no game executables, `.WAR` archives, audio, video, original Japanese scripts, engine bytecode, or original artwork/textures. It contains only our original English translation strings, an open-source DLL hook, and a PowerShell installer that patches **your own legally obtained copy** of the game locally.
 
